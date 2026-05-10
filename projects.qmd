@@ -9,6 +9,31 @@ This page lists the tests I have worked on so far in my career, starting with th
 Developing and delivering genetic tests is a joint effort between clinical scientists, bioinformaticians, technologists, technicians, data-scientists, clinicians and administrative staff.
 All of the projects listed below were collaborations with many wonderful colleagues without whom these projects would not have succeeded.
 
+# Single Nucleotide Variant Detection in Leukaemia
+
+This diagnostic service offers a new NGS enrichment for all haematological malignancies and leukaemia targets on the National Genomic Test Directory. 
+During the project we validated detection of single nucleotide variants (SNVs) and indels, as well as partial tandem duplications in the *KMT2A* gene for acute myeloid leukaemia samples. 
+
+[**Project Overview**]{.underline}
+
+**Outcome:** diagnostic service
+
+**Timing:** Dec 2025-Apr 2026
+
+**Location:** Manchester Genomic Laboratory Hub
+
+**Technique:** QIAseq next generation sequencing
+
+**Code:** R and Quarto
+
+[**Skills I learned**]{.underline}
+
+- Analysing VCF files using the [readvcfR](https://github.com/knausb/vcfR) package
+
+- Working with JSON files using the [jsonlite](https://arxiv.org/abs/1403.2805) package
+
+- How to use [Variant Validator](https://variantvalidator.org/)
+
 # Chromosome-arm-level Copy Number Variant Detection in Solid Cancers
 
 In this project we validated detection of copy number variants which impact entire chromosome arms, which are increasingly used in the diagnosis and stratification of brain tumours. 
