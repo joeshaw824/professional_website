@@ -10,6 +10,8 @@ title: "Publications"
 
 ## Papers that I am a co-author on
 
+Morgan RD, Burghel GJ, [**Shaw J**]{.underline}, Schlecht H, Baishnab D, Pilkington T, Desai S, Salih Z, Mitchell C, Hasan J, Clamp AR, Jayson GC, Taylor SS, Evans DGR. Homologous recombination deficiency in unselected cases of high-grade ovarian carcinoma. J Med Genet. 2025 Oct 20;62(11):724-725. doi: 10.1136/jmg-2025-110903. PMID: [40813063](https://pubmed.ncbi.nlm.nih.gov/40813063/).
+
 Hirons B, Cho PSP, Rhatigan K, [**Shaw J**]{.underline}, Curro R, Rugginini B, Dominik N, Turner RD, Mackay E, Hull JH, Abubakar-Waziri H, Kesavan H, Jolley CJ, Hadden RD, Cortese A, Birring SS. Repeat expansions in RFC1 gene in refractory chronic cough. ERJ Open Res. 2025 Jan 13;11(1):00584-2024. doi: 10.1183/23120541.00584-2024. PMID: [39811557](https://pubmed.ncbi.nlm.nih.gov/39811557/)
 
 Hanson B, [**Shaw J**]{.underline}, Povarnitsyn N, Bowns B, Young E, Gerrish A, Allen S, Scotchman E, Chitty LS, Chandler NJ. Expanding Access to Noninvasive Prenatal Diagnosis for Monogenic Conditions to Consanguineous Families. Clin Chem. 2024 Apr 9:hvae023. doi: 10.1093/clinchem/hvae023. Epub ahead of print. PMID: [38592422](https://pubmed.ncbi.nlm.nih.gov/38592422/).
@@ -19,3 +21,21 @@ Dominik N, Magri S, Currò R, Abati E, Facchini S, Corbetta M, Macpherson H, Di 
 Ronco R, Perini C, Currò R, Dominik N, Facchini S, Gennari A, Simone R, Stuart S, Nagy S, Vegezzi E, Quartesan I, El-Saddig A, Lavin T, Tucci A, Szymura A, Novis De Farias LE, Gary A, Delfeld M, Kandikatla P, Niu N, Tawde S, [**Shaw J**]{.underline}, Polke J, Reilly MM, Wood NW, Crespan E, Gomez C, Chen JYH, Schmahmann JD, Gosal D, Houlden H, Das S, Cortese A. Truncating Variants in RFC1 in Cerebellar Ataxia, Neuropathy, and Vestibular Areflexia Syndrome. Neurology. 2023 Jan 31;100(5):e543-e554. PMID: [36289003](https://pubmed.ncbi.nlm.nih.gov/36289003/).
 
 Scotchman E, [**Shaw J**]{.underline}, Paternoster B, Chandler N, Chitty LS. Non-invasive prenatal diagnosis and screening for monogenic disorders. Eur J Obstet Gynecol Reprod Biol. 2020 Oct;253:320-327. PMID: [32907778](https://pubmed.ncbi.nlm.nih.gov/32907778/).
+
+## Papers co-authored by a different Joe Shaw
+
+By chance, there is another person called Joseph (Joe) Shaw who works in the same institution as
+me and also works in cancer genetics.
+
+This makes it hard to remember which papers I actually contributed to! 
+
+As an attempt at clarity, I've listed the papers below
+which were written by my colleague Joe Shaw, not by me.
+
+Morgan RD, Clamp AR, White DJ, Price M, Burghel GJ, Ryder WDJ, Mahmood RD, Murphy AD, Hasan J, Mitchell CL, Salih Z, Wheeler C, Buckley E, Truelove J, King G, Ainaoui Y, Bhaskar SS, Shaw J, Evans DGR, Kilerci B, Pearce SP, Brady G, Dive C, O'Connor JPB, Wallace AJ, Rothwell DG, Edmondson RJ, Jayson GC. Multi-Maintenance Olaparib Therapy in Relapsed, Germline BRCA1/2-Mutant High-Grade Serous Ovarian Cancer (MOLTO): A Phase II Trial. Clin Cancer Res. 2023 Jul 14;29(14):2602-2611. doi: 10.1158/1078-0432.CCR-22-3282. PMID: 36799931.
+
+Morgan RD, Burghel GJ, Flaum N, Bulman M, Smith P, Clamp AR, Hasan J, Mitchell C, Salih Z, Woodward ER, Lalloo F, Shaw J, Desai S, Crosbie EJ, Edmondson RJ, Schlecht H, Wallace AJ, Jayson GC, Evans DGR. Predicting the likelihood of a BRCA1/2 pathogenic variant being somatic by testing only tumour DNA in non-mucinous high-grade epithelial ovarian cancer. J Clin Pathol. 2023 Oct;76(10):684-689. doi: 10.1136/jcp-2022-208369. Epub 2022 Jun 23. PMID: 35738887.
+
+Morgan RD, Wang X, Barnes BM, Spurgeon L, Carrot A, Netto D, Hasan J, Mitchell C, Salih Z, Desai S, Shaw J, Winter-Roach B, Schlecht H, Burghel GJ, Clamp AR, Edmondson RJ, You B, Evans DGR, Jayson GC, Taylor SS. Germline BRCA1/2 status and chemotherapy response score in high-grade serous ovarian cancer. Br J Cancer. 2024 Dec;131(12):1919-1927. doi: 10.1038/s41416-024-02874-6. Epub 2024 Nov 16. PMID: 39550490; PMCID: PMC11628596.
+
+Morgan RD, Burghel GJ, Schlecht H, Clamp AR, Hasan J, Mitchell CL, Salih Z, Shaw J, Desai S, Jayson GC, Woodward ER, Evans DGR. Real-World Concordance between Germline and Tumour BRCA1/2 Status in Epithelial Ovarian Cancer. Cancers (Basel). 2023 Dec 29;16(1):177. doi: 10.3390/cancers16010177. PMID: 38201604; PMCID: PMC10778166.
